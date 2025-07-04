@@ -1,5 +1,5 @@
 # My Python Beginner Projects
-DAY 1
+Day 1 of becoming who I’m meant to be
 
 This project contains 3 simple programs I built on Day 1:
 - Billing System
