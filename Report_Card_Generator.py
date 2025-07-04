@@ -8,7 +8,7 @@ s5 = int(input("Enter marks for Subject 5: "))
 total = s1 + s2 + s3 + s4 + s5
 percentage = total / 5
 
-print("\n🎓 Report Card")
+print("\n Report Card")
 print("Student:", name)
 print("Total Marks:", total, "/ 500")
 print("Percentage:", percentage, "%")
